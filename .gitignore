@@ -1,3 +1,8 @@
 *
 !.gitignore
 !README.md
+!Pipfile
+!Pipfile.lock
+!littlelemon/
+!littlelemon/*.py
+!littlelemon/littlelemon/*.py
