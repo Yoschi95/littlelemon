@@ -10,3 +10,13 @@
 !/restaurant/*.py
 !/restaurant/migrations/
 !/restaurant/migrations/*.py
+!restaurant/static/
+!restaurant/static/restaurant/
+!restaurant/static/restaurant/img/
+!restaurant/static/restaurant/img/*.jpg
+!restaurant/static/restaurant/img/*.png
+!restaurant/static/restaurant/img/*.ico
+!restaurant/static/restaurant/css/
+!restaurant/static/restaurant/css/*.css
+!/templates/
+!/templates/*.html
