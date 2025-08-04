@@ -3,6 +3,10 @@
 !README.md
 !Pipfile
 !Pipfile.lock
+!manage.py
 !littlelemon/
 !littlelemon/*.py
-!littlelemon/littlelemon/*.py
+!/restaurant/
+!/restaurant/*.py
+!/restaurant/migrations/
+!/restaurant/migrations/*.py
