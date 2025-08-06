@@ -20,3 +20,5 @@
 !restaurant/static/restaurant/css/*.css
 !/templates/
 !/templates/*.html
+!tests/
+!tests/*.py
