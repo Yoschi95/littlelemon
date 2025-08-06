@@ -55,6 +55,22 @@ This repository hosts the **Module 4 Capstone project** for the **Meta Back‑
 - Python 3.12
 - pipenv
 
+## APIs
+
+```
+Create user
+http://127.0.0.1:8000/auth/users/
+
+Get token
+http://127.0.0.1:8000/auth/token/login/
+
+Menu API
+http://127.0.0.1:8000/restaurant/menu/
+
+Booking API
+http://127.0.0.1:8000/restaurant/booking/tables/
+```
+
 ## License
 
 This project is licensed under the MIT License.
